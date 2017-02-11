@@ -3,7 +3,7 @@ mindplay/escape
 
 This package provides a small set of global functions for use in plain PHP templates.
 
-[![PHP Version](https://img.shields.io/badge/php-5.3%2B-blue.svg)](https://packagist.org/packages/mindplay/escape)
+[![PHP Version](https://img.shields.io/badge/php-5.4%2B-blue.svg)](https://packagist.org/packages/mindplay/escape)
 [![Build Status](https://travis-ci.org/mindplay-dk/escape.svg?branch=master)](https://travis-ci.org/mindplay-dk/escape)
 
 I use this with [kisstpl](https://github.com/mindplay-dk/kisstpl) and plain PHP templates, but
