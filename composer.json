@@ -1,0 +1,21 @@
+{
+    "name": "mindplay/escape",
+    "description": "A few global (yes, global!) functions to escape HTML/JS in templates",
+    "type": "library",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Rasmus Schultz",
+            "email": "rasmus@mindplay.dk"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": ["src/view.func.php"]
+    },
+    "require-dev": {
+        "mindplay/testies": "^0.3"
+    }
+}
